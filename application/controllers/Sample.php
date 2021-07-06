@@ -18,6 +18,8 @@ class Sample extends CI_Controller {
     
 
     
+
+    
 }
 
 ?>

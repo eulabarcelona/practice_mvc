@@ -16,6 +16,8 @@ class Show_input extends CI_Controller {
             echo "</pre>";
             die(); 
 
+
+            
              
 
 
