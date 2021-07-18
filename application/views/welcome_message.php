@@ -4,6 +4,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
+	<link rel="stylesheet" href="<? echo base_url();?>/assets/dist/css/adminlte.min.css">
+
 	<title>Welcome to CodeIgniter</title>
 
 	<style type="text/css">
@@ -65,7 +67,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	}
 	</style>
 </head>
-<body>
+<body class="bg-dark">
 
 <div id="container">
 	<h1>Welcome to CodeIgniter!</h1>

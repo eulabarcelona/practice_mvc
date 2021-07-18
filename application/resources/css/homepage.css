@@ -1,4 +1,25 @@
-.navbar.navbar-top{
-    background-color: #80706A;
-    color:white;
-}
+
+    body {
+      background-color: #1c1c1c;
+    }
+
+    .navbar.navbar-top {
+      background-color: black;
+    }
+
+    .navbar.navbar-top ul li a {
+      color: white;
+    }
+
+    .navbar.navbar-top ul li a:hover{
+        color: #b0662b;
+        font-weight: bold;
+      }
+
+    .navbar.navbar-top ul li a:hover{
+      color: #b0662b;
+    }
+
+    .navbar.navbar-top ul li a:active{
+        color: #b0662b;
+    }
